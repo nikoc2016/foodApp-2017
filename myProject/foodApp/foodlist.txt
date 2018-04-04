@@ -1,0 +1,148 @@
+﻿bacon
+beef
+chicken
+cooked meat
+duck
+ham
+kidneys
+lamb
+liver
+mince or minced beef
+paté
+salami
+sausages
+pork
+pork pie
+sausage roll
+turkey
+veal
+anchovy
+cod
+haddock
+herring
+kipper
+mackerel
+pilchard
+plaice
+salmon
+sardine
+smoked salmon
+sole
+trout
+tuna
+artichoke
+asparagus
+aubergine
+avocado
+beansprouts
+beetroot
+broad beans
+broccoli
+Brussels sprouts
+cabbage
+carrot
+cauliflower
+celery
+chilli or chilli pepper
+courgette
+cucumber
+French beans
+garlic
+ginger
+leek
+lettuce
+mushroom
+onion
+peas
+pepper
+potato
+pumpkin
+radish
+rocket
+runner beans
+swede
+sweet potato
+sweetcorn
+tomato
+turnip
+spinach
+spring onion
+squash
+clove of garlic
+stick of celery
+baked beans
+corned beef
+kidney beans
+soup
+tinned tomatoes
+chips
+fish fingers
+frozen peas
+frozen pizza
+ice cream
+butter
+cream
+cheese
+blue cheese
+cottage cheese
+goats cheese
+crème fra?che
+eggs
+free range eggs
+margarine
+milk
+full-fat milk
+semi-skimmed milk
+skimmed milk
+sour cream
+yoghurt
+baguette
+bread rolls
+brown bread
+white bread
+garlic bread
+pitta bread
+loaf
+loaf of bread
+sliced loaf
+cake
+Danish pastry
+quiche
+sponge cake
+baking powder
+plain flour
+self-raising flour
+cornflour
+sugar
+brown sugar
+icing sugar
+pastry
+yeast
+dried apricots
+prunes
+dates
+raisins
+sultanas
+cereal
+cornflakes
+honey
+jam
+marmalade
+muesli
+porridge
+toast
+noodles
+pasta
+pasta sauce
+pizza
+rice
+spaghetti
+biscuits
+chocolate
+crisps
+hummus
+nuts
+olives
+peanuts
+sweets
+walnuts
